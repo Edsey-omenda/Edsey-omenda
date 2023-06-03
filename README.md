@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am James Omenda, currently a freelancer Software Engineer and also learning Python. I am a Full-Stack JavaScript and ruby on rails developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am James Omenda, currently a freelancer Software Engineer and also learning node js and express js. I am a Full-Stack JavaScript and ruby on rails developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/james-omenda/)
 [![Gmail Badge](https://img.shields.io/badge/-omendajames0317@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omendajames0317@gmail.com)](mailto:omendajames0317@gmail.com)
